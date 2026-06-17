@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Esclavo del deseo
+
+This log tracks the cryptographic history and versioning for the song **Esclavo del deseo** (esclavo-del-deseo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T15:58:11.391680 | `v1` | `aa60bf5ce22502ee2bed9c70f04693fc76176c0de2c6248d4fb5ad67b37c7f75` | `b03afc924c6eec6f47659c7903c4193c9e0f0371fa4f29be01f812694ad3189a` | `2026-06-17_esclavo-del-deseo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/esclavo-del-deseo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Esclavo del deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-del-deseo/) |
+| **Get License** | [Obtain a Music License for Esclavo del deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-del-deseo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `aa60bf5ce22502ee2bed9c70f04693fc76176c0de2c6248d4fb5ad67b37c7f75` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
