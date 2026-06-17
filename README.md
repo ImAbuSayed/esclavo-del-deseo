@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/esclavo-del-deseo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Esclavo del deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-del-deseo/) |
+| **Get License** | [Secure Licensing Rights for Esclavo del deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-del-deseo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me tienes como un loco perdiendo la voluntad
+> Bailando lento en lo oscuro por toda esta gran ciudad
+> Me tienes adicto al juego de tu pura vanidad
+> Esclavo de tu deseo y de tu sensualidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
